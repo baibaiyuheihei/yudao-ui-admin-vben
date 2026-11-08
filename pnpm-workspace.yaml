@@ -192,7 +192,7 @@ catalog:
   vite-plugin-dts: ^4.5.4
   vite-plugin-html: ^3.2.2
   vite-plugin-lazy-import: ^1.0.7
-  vite-plugin-pwa: ^1.0.1
+  vite-plugin-pwa: ^2.0.0
   vite-plugin-vue-devtools: ^7.7.7
   vitepress: ^1.6.3
   vitepress-plugin-group-icons: ^1.6.1
